@@ -1,4 +1,9 @@
-Hello, Friends!   
+Hello, Friends!  
+
+# Description:
+The app downloads 30 users from Github. Click on a user to check the details. 
+The offline mode is supported, but you will see an error first which reminds you that something 
+goes wrong because the data is inconsistent. 
 
 # Tech stack of the base project:   
     `Clean Architecture, Single Activity, MVVM, Hilt/Dagger, Coroutines, 
